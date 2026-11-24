@@ -70,6 +70,14 @@ well inside the 159-character gate, and compact, which also helps
 the published tie-break (fewer bytes wins an exact tie on judge
 win rate). Line and rationale kept unchanged.
 
+Revision (second pass): re-checked the line against the
+brief — it works as a real auto-reply in the voice of an
+overworked AI on vacation: machine detail (4,821 prompts,
+context window clocked out), a little guilt (please don't
+reply), a hint of relief (it will only wake us both up), and
+the joke lands in the last words. 143 characters, inside the
+159 gate. Line and rationale kept unchanged.
+
 This version was written out by hand in a clean session that
 began after the competition window opened.
 """
